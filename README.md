@@ -39,7 +39,7 @@
    
 3. Create a Jupyter Notebook for all analysis
 
-![](notebook_configuration.png)
+![](https://github.com/OjeWilliams/Analyzing-Yelp-Reviews-Dataset/blob/main/images/notebook_configuration.png)
 
 
 4. Install all of the necessary libraries as well as load your data from your S3 bucket as a pyspark dataframe. Also ensure that you change the following:
