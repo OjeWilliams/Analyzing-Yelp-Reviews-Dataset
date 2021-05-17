@@ -20,7 +20,7 @@
  #### Part I: Installation and Inital Setup 
 1. Upload all of the necessary Yelp Json files into a AWS S3 bucket so that it can be accessed by EMR as seen below: 
    
-![](s3_bucket.png)
+![](https://github.com/OjeWilliams/Analyzing-Yelp-Reviews-Dataset/blob/main/images/s3_bucket.png)
 <br />
 <br />
 
