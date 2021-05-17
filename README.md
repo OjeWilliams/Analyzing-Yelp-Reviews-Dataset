@@ -35,7 +35,7 @@
     -   Step 2: Hardware : make sure EC2 Subset is configured correctly that instance types are m5.xlarge
 
 
-![](cluster_configuration.png)  &nbsp; <br />
+![](https://github.com/OjeWilliams/Analyzing-Yelp-Reviews-Dataset/blob/main/images/cluster_configuration.PNG)  &nbsp; <br />
    
 3. Create a Jupyter Notebook for all analysis
 
